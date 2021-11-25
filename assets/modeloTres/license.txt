@@ -1,0 +1,11 @@
+Model Information:
+* title:	Objetos Cyberpunk
+* source:	https://sketchfab.com/3d-models/objetos-cyberpunk-1c41565ff0c04bbebf08d2ea36650238
+* author:	Darien.V (https://sketchfab.com/Darien.V)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Objetos Cyberpunk" (https://sketchfab.com/3d-models/objetos-cyberpunk-1c41565ff0c04bbebf08d2ea36650238) by Darien.V (https://sketchfab.com/Darien.V) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
